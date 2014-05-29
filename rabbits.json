@@ -1,0 +1,60 @@
+{
+  "rabbits": [
+    {
+      "id": 3,
+      "name": "Fluffy",
+      "favorite_color": "orange",
+      "birth_date": "01/03/2010",
+      "death_date": "12/30/2013"
+    },
+    {
+      "id": 5,
+      "name": "Hoppy",
+      "favorite_color": "red",
+      "birth_date": "10/04/2014",
+      "death_date": null
+    },
+    {
+      "id": 6,
+      "name": "Mister Jumpykins",
+      "favorite_color": "green",
+      "birth_date": "03/03/2014",
+      "death_date": null
+    },
+    {
+      "id": 7,
+      "name": "Bounce",
+      "favorite_color": "orange",
+      "birth_date": "05/11/2012",
+      "death_date": "04/10/2014"
+    },
+    {
+      "id": 9,
+      "name": "Scooter",
+      "favorite_color": "green",
+      "birth_date": "02/07/2013",
+      "death_date": null
+    },
+    {
+      "id": 12,
+      "name": "Dooley",
+      "favorite_color": "blue",
+      "birth_date": "03/12/2011",
+      "death_date": "11/11/2013"
+    },
+    {
+      "id": 15,
+      "name": "Tiff",
+      "favorite_color": "blue",
+      "birth_date": "01/03/2014",
+      "death_date": null
+    },
+    {
+      "id": 23,
+      "name": "Roberta",
+      "favorite_color": "red",
+      "birth_date": "09/22/2013",
+      "death_date": null
+    }
+  ]
+}
